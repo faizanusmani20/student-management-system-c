@@ -16,6 +16,7 @@ void addStudent() {
     n++;  // global variable updated
     printf("Successfully Student Added\n");
 }
+
 int main(){
 addStudent();  // no need to pass n
 return 0;
