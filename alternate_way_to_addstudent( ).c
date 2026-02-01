@@ -17,6 +17,7 @@ void addStudent() {
     printf("Successfully Student Added\n");
 }
 
+
 int main(){
 addStudent();  // no need to pass n
 return 0;
