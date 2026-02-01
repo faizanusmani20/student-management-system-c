@@ -10,6 +10,7 @@ and understand how real-world data can be managed using basic C concepts.
 - Search student by roll number
 - Menu-driven user interface
 - Clean and beginner-friendly code structure
+  
 
 ## 🛠️ Technologies Used
 - C Programming Language
